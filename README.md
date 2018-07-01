@@ -9,7 +9,7 @@ R -- Review
 T -- Tip
 S -- Share
 
-Stick to one year :-)
+For one year :-)
 ```
 
 
